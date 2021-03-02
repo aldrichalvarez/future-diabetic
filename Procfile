@@ -1,1 +1,0 @@
-web: gunicorn futurediabetic.wsgi --log-file -
