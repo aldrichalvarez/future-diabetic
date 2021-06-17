@@ -28,10 +28,10 @@ Pillow==8.1.0
 pipenv==2020.11.15
 psycopg2==2.8.6
 pyparsing==2.4.7
-pypiwin32==223
+
 python-dateutil==2.8.1
 pytz==2021.1
-pywin32==300
+
 PyYAML==5.3.1
 requests==2.24.0
 scikit-learn==0.24.1
