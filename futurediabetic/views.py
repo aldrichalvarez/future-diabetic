@@ -41,3 +41,4 @@ def result(request):
         result1 = "Negative"
 
     return render(request, 'predict.html', {"result2":result1})
+
