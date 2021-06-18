@@ -26,7 +26,7 @@ SECRET_KEY = 'mb+0i(ew48l4*c(trty&o#t_wm72ktwekcea!a+@t5x!kir6v+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['diabetes-prediction-dj-ml.herokuapp.com']
 
 
 # Application definition
